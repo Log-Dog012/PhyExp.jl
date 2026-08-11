@@ -1,0 +1,12 @@
+# Julia 库：Manifest 不入库（由 Project.toml 解析）
+Manifest.toml
+
+# 编译/转换产物
+*.pdf
+*.tex
+build/
+*.log
+
+# 系统
+Thumbs.db
+.DS_Store
